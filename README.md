@@ -39,7 +39,7 @@
 <h2 align="center">🛠️ Tools & Skills 🛠️</h2>
 <br>
 <p align="center">
-  <code><img title="Microsoft Excel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg"></code>
+  <code><img title="Python" height="25" src="Images/excel-svgrepo-com.svg"></code>
   <code><img title="Power BI" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></code>
   <code><img title="SQL / MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
   <code><img title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
