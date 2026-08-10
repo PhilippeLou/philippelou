@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/philippe-louis-garibay-373917284/" title="LinkedIn Profile"></a><img title="linkedin" src="Images/linkedin-svgrepo-com.svg" width="22">LinkedIn</img></code>
   <code><a href="mailto:louisgaribay7000@gmail.com" title="Email"></a><img title="email" src="Images/gmail-svgrepo-com.svg" width="22">Email</img></code>
-  <code><a href="https://medium.com/@louisgaribay7000" title="Medium"></a><img title="medium" src="Images/medium-alt-svgrepo-com.svg" width="22">Medium</img></code>
+  <code><a href="https://medium.com/@louisgaribay7000" title="Medium"></a><img title="medium" src="Images/medium-svgrepo-com.svg" width="22">Medium</img></code>
   <code><a href="https://www.instagram.com/philippelouis_/" title="Instagram"></a><img title="instagram" src="Images/instagram-1-svgrepo-com.svg" width="22">Instagram</img></code>
 </h5>
 
