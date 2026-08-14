@@ -71,22 +71,52 @@
 
 <hr>
 
-<h2 align="center">📌 Featured Projects 📌</h2>
-<br>
-<div align="center">
-  <a href="https://github.com/PhilippeLou/fifa-world-cup-2026-player-performance-dashboard" title="FIFA World Cup 2026 Player Performance Dashboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhilippeLou&repo=fifa-world-cup-2026-player-performance-dashboard&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/PhilippeLou/service-quality-analysis-dashboard" title="Service Quality Analysis Dashboard"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhilippeLou&repo=service-quality-analysis-dashboard&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div align="center">
-  <a href="https://github.com/PhilippeLou/flight-status-dashboard" title="Flight Status Dashboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhilippeLou&repo=flight-status-dashboard&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/PhilippeLou/sales-analytics-dashboard" title="Sales Analytics Dashboard"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhilippeLou&repo=sales-analytics-dashboard&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div align="center">
-  <a href="https://github.com/PhilippeLou/Library-Catalog-System" title="Library Catalog System"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PhilippeLou&repo=Library-Catalog-System&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/>
+<h2 align="center">🗂️ Philippe's Portfolio 🗂️</h2>
+
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+
+### 📚 Table of Contents
+- [Web Development](#web-development)
+- [Excel](#excel)
+- [Power BI](#power-bi)
+- [Python](#python)
+
+## Web Development
+
+| Project Link | Tools | Project Description |
+|---|---|---|
+| 📚 [Bibliotheca Electrum](https://github.com/Adjyharby/bibliotheca_electrum_Main) | React, TypeScript, Electron, Firebase | Full-stack library management and visitor engagement system for Batanes State College Library — QR-based visitor attendance, remote catalog browsing, and an admin analytics dashboard. Deployed and actively used by the library. *(Finished Jan 2026)* |
+
+***
+
+## Excel
+
+| Project Link | Tools | Project Description |
+|---|---|---|
+| 💰 [Sales and Profit Dashboard](https://github.com/PhilippeLou/sales-and-profit-dashboard) | Excel (Pivot Tables, Slicers) | Cleaned raw sales data and built pivot tables, charts, and interactive slicers to analyze sales and profit by category, customer, and time period. |
+| ⚙️ [Power Query Data Cleaning & Automation](https://github.com/PhilippeLou/power-query-data-cleaning-automation) | Excel (Power Query) | A set of Power Query lessons covering combining multiple files automatically, cleaning raw data, and building a reusable custom function for automation. |
+| ⚽ [FIFA World Cup 2026 Player Performance Dashboard](https://github.com/PhilippeLou/fifa-world-cup-2026-player-performance-dashboard) | Excel (Pivot Tables, Weighted Scoring) | An original dashboard ranking 2026 World Cup players position-by-position using a custom weighted performance index built from Kaggle datasets. |
+| 💵 [Finance Expense Dashboard](https://github.com/PhilippeLou/finance-expense-dashboard) | Excel (Pivot Tables) | Analyzes 2021 personal income and expenses by account and category using pivot tables feeding into a summary dashboard. |
+
+***
+
+## Power BI
+
+| Project Link | Tools | Project Description |
+|---|---|---|
+| ✈️ [Flight Status Dashboard](https://github.com/PhilippeLou/flight-status-dashboard) | Power BI, DAX, Star Schema | Analyzes 1M+ rows of US domestic flight data with a star-schema model, tracking on-time, delayed, and cancelled flights by airline and airport. |
+| 📈 [Sales Analytics Dashboard](https://github.com/PhilippeLou/sales-analytics-dashboard) | Power BI, DAX | Tracks sales, quantity, and profit performance with slicers for year, month, sale type, and payment method, plus category and product breakdowns. |
+| 🎫 [Service Quality Overview Dashboard](https://github.com/PhilippeLou/service-quality-analysis-dashboard) | Power BI, DAX, Custom HTML/CSS | A fintech-style KPI dashboard built entirely with custom HTML/CSS and DAX instead of native visuals — pastel gradient KPI cards with sparklines, a color-coded CSAT trend chart with benchmark line, and a ranked issue-type breakdown. Also fixed a negative-duration timestamp bug, later covered in a [Medium post](https://medium.com/@louisgaribay7000). |
+
+***
+
+## Python
+
+| Project Link | Tools | Project Description |
+|---|---|---|
+| 🌍 [World Happiness Report 2026](https://github.com/PhilippeLou/world-happiness-analysis-2026) | Python, pandas, Streamlit | An interactive dashboard exploring what drives happiness across 147 countries, based on the World Happiness Update Report 2026 and Gallup World Poll data (2023–2025). My first project moving beyond Excel/Power BI into a code-first analysis workflow. |
+
+***
 
 <h4 align="center">
   <a href="https://github.com/PhilippeLou?tab=repositories" title="Show Repositories">🔎 Show More Repositories 🔍</a>
