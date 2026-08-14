@@ -25,8 +25,6 @@
   <br>
   📜 Cisco Certified: Data Analytics Essentials & Data Science Essentials
   <br>
-  📊 Currently pursuing Microsoft's Power BI Data Analyst certification
-  <br>
   🛠️ I build dashboards and data stories using Excel, Power BI, and SQL — with a growing focus on Python
   <br>
   ✍️ I write about my projects and what I learn building them on <a href="https://medium.com/@louisgaribay7000">Medium</a>
