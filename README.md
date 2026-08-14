@@ -123,5 +123,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 <hr>
 
 <p align="center">
-  <sub>README structure inspired  by <a href="https://github.com/zumrudu-anka/zumrudu-anka">Osman Durdağ</a> (MIT License)</sub>
+  <sub>README structure inspired   by <a href="https://github.com/zumrudu-anka/zumrudu-anka">Osman Durdağ</a> (MIT License)</sub>
 </p>
