@@ -114,6 +114,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|
 | 🌍 [World Happiness Report 2026](https://github.com/PhilippeLou/world-happiness-analysis-2026) | Python, pandas, Streamlit | An interactive dashboard exploring what drives happiness across 147 countries, based on the World Happiness Update Report 2026 and Gallup World Poll data (2023–2025). My first project moving beyond Excel/Power BI into a code-first analysis workflow. |
 
+| 🏥 [Not All Admissions Are Equal](https://github.com/PhilippeLou/admission-vs-bed-days-analysis) | Python, pandas, Altair, Streamlit | An analysis of 74,000+ NY State hospital inpatient discharges (SPARCS 2021), uncovering the paradox where the most common diagnoses aren't the ones consuming the most hospital bed-days. Follows a records-office-style flow from volume overview to a Septicemia case study. [Read the write-up on Medium](https://medium.com/@louisgaribay7000/not-all-admissions-are-equal-what-74-000-hospital-discharges-reveal-about-where-care-actually-8ed0bb34ac73?postPublishedType=initial). |
 ***
 
 <h4 align="center">
